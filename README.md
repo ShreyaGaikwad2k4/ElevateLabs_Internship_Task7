@@ -52,7 +52,7 @@ Click Reload Data to fetch the information again.
 
 GitHub Profile: https://github.com/ShreyaGaikwad2k4
 
-Project Repository: https://github.com/ShreyaGaikwad2k4/ElevateLabs_Internship_Task7
+LinkedIn Profile: https://www.linkedin.com/in/shreya-gaikwad-2k4
 
 Live Page: https://shreyagaikwad2k4.github.io/ElevateLabs_Internship_Task7/
 
